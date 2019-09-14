@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/KiichiSugihara/start-webpack/issues"
   },
-  "homepage": "https://github.com/KiichiSugihara/start-webpack#readme"
+  "homepage": "https://github.com/KiichiSugihara/start-webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8"
+  }
 }
