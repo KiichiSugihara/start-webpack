@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/KiichiSugihara/start-webpack#readme",
   "devDependencies": {
-    "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.8"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "jquery": "^3.4.1"
